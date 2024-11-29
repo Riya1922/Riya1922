@@ -7,7 +7,7 @@ A **passionate Computer Science student** with expertise in **C++**, **JavaScrip
 ---
 
 ## My Skill Set 💻
-|-------------------------------------------------------------------------------------|
+
 | [![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)](https://en.wikipedia.org/wiki/C%2B%2B) |
 | [![HTML](https://img.icons8.com/color/48/000000/html-5--v1.png)](https://en.wikipedia.org/wiki/HTML)          |
 | [![CSS](https://img.icons8.com/color/48/000000/css3.png)](https://en.wikipedia.org/wiki/CSS)                 |

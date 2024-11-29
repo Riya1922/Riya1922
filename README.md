@@ -6,19 +6,26 @@ A **passionate Computer Science student** with expertise in **C++**, **JavaScrip
 - 💬 **Ask Me About:** My favorite projects like Task Master, Foodie Flow, or my experience with the currency convertor API.
 ---
 
-## My Skill Set
+## My Skill Set 💻
 
-### Languages & Frameworks:
-![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+Here are some of the technologies I have worked with:
+
+| Skill         | Logo                                                                 |
+|---------------|----------------------------------------------------------------------|
+| [**C++**](https://en.wikipedia.org/wiki/C%2B%2B)       | [![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)](https://en.wikipedia.org/wiki/C%2B%2B) |
+| [**HTML**](https://en.wikipedia.org/wiki/HTML)        | [![HTML](https://img.icons8.com/color/48/000000/html-5--v1.png)](https://en.wikipedia.org/wiki/HTML)      |
+| [**CSS**](https://en.wikipedia.org/wiki/CSS)          | [![CSS](https://img.icons8.com/color/48/000000/css3.png)](https://en.wikipedia.org/wiki/CSS)              |
+| [**JavaScript**](https://en.wikipedia.org/wiki/JavaScript) | [![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)](https://en.wikipedia.org/wiki/JavaScript) |
+| [**React**](https://en.wikipedia.org/wiki/React_(JavaScript_library)) | [![React](https://img.icons8.com/color/48/000000/react-native.png)](https://en.wikipedia.org/wiki/React_(JavaScript_library)) |
+| [**Node.js**](https://en.wikipedia.org/wiki/Node.js)  | [![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)](https://en.wikipedia.org/wiki/Node.js)    |
+
+---
+
 
 ### Tools & Technologies:
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+| [**MongoDB**](https://en.wikipedia.org/wiki/MongoDB)  | [![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)](https://en.wikipedia.org/wiki/MongoDB)   |
+| [**Git**](https://en.wikipedia.org/wiki/Git)          | [![Git](https://img.icons8.com/color/48/000000/git.png)](https://en.wikipedia.org/wiki/Git)               |
+
 ---
 
 ### Let's Connect!

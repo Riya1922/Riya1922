@@ -7,25 +7,19 @@ A **passionate Computer Science student** with expertise in **C++**, **JavaScrip
 ---
 
 ## My Skill Set 💻
-
-Here are some of the technologies I have worked with:
-
-| Skill         | Logo                                                                 |
-|---------------|----------------------------------------------------------------------|
-| [**C++**](https://en.wikipedia.org/wiki/C%2B%2B)       | [![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)](https://en.wikipedia.org/wiki/C%2B%2B) |
-| [**HTML**](https://en.wikipedia.org/wiki/HTML)        | [![HTML](https://img.icons8.com/color/48/000000/html-5--v1.png)](https://en.wikipedia.org/wiki/HTML)      |
-| [**CSS**](https://en.wikipedia.org/wiki/CSS)          | [![CSS](https://img.icons8.com/color/48/000000/css3.png)](https://en.wikipedia.org/wiki/CSS)              |
-| [**JavaScript**](https://en.wikipedia.org/wiki/JavaScript) | [![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)](https://en.wikipedia.org/wiki/JavaScript) |
-| [**React**](https://en.wikipedia.org/wiki/React_(JavaScript_library)) | [![React](https://img.icons8.com/color/48/000000/react-native.png)](https://en.wikipedia.org/wiki/React_(JavaScript_library)) |
-| [**Node.js**](https://en.wikipedia.org/wiki/Node.js)  | [![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)](https://en.wikipedia.org/wiki/Node.js)    |
+|-------------------------------------------------------------------------------------|
+| [![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)](https://en.wikipedia.org/wiki/C%2B%2B) |
+| [![HTML](https://img.icons8.com/color/48/000000/html-5--v1.png)](https://en.wikipedia.org/wiki/HTML)          |
+| [![CSS](https://img.icons8.com/color/48/000000/css3.png)](https://en.wikipedia.org/wiki/CSS)                 |
+| [![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)](https://en.wikipedia.org/wiki/JavaScript) |
+| [![React](https://img.icons8.com/color/48/000000/react-native.png)](https://en.wikipedia.org/wiki/React_(JavaScript_library)) |
+| [![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)](https://en.wikipedia.org/wiki/Node.js)        |
 
 ---
 
-
 ### Tools & Technologies:
-| [**MongoDB**](https://en.wikipedia.org/wiki/MongoDB)  | [![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)](https://en.wikipedia.org/wiki/MongoDB)   |
-| [**Git**](https://en.wikipedia.org/wiki/Git)          | [![Git](https://img.icons8.com/color/48/000000/git.png)](https://en.wikipedia.org/wiki/Git)               |
-
+| [![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)](https://en.wikipedia.org/wiki/MongoDB)      |
+| [![Git](https://img.icons8.com/color/48/000000/git.png)](https://en.wikipedia.org/wiki/Git)                  |
 ---
 
 ### Let's Connect!
